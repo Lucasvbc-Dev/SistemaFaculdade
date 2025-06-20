@@ -1,4 +1,4 @@
-# Sistema de Faculdade 🏫
+# Sistema de Faculdade 
 
 Este projeto é um sistema de gerenciamento acadêmico desenvolvido em Java, com foco em funcionalidades como:
 
